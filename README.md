@@ -28,7 +28,7 @@
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sayan-biswas-630776274)
 
-📧 foreverything.yupp@gmail.com
+📧 s15biswas.work@gmail.com
 
 ---
 
