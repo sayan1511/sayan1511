@@ -1,7 +1,13 @@
-# 👋 Hi, I'm Sayan
+# <div align="center">👋 Hi, I'm Nachiketa Singamsetty</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=Part+student,+part+confused+coder;Building+AI%2FML+one+bug+at+a+time;Learning+through+trial+and+error" alt="Typing SVG" />
+</div>
 
-🎓 Final-year engineering student | 💻 ML & GEN AI |
-🔍 Passionate about solving real-world problems using ML&AI, and data.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
