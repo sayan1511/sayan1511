@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm Nachiketa Singamsetty</div>
+# <div align="center">👋 Hello, I'm Sayan Biswas</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=Part+student,+part+confused+coder;Building+AI%2FML+one+bug+at+a+time;Learning+through+trial+and+error" alt="Typing SVG" />
 </div>
